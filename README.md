@@ -21,9 +21,8 @@ Bienvenido a **FortPass**, la aplicación segura para gestionar tus contraseñas
 
 
 
+![QR APP FORTPASS2](https://github.com/user-attachments/assets/136e989b-5290-4415-b47c-7077cfd81ebb)
 
-
-![QR APP FORTPASS2](https://github.com/user-attachments/assets/4fe76d85-49fc-4174-8631-46aa4d82d475)
 
 
 
