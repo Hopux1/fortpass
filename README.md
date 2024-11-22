@@ -16,10 +16,7 @@ Bienvenido a **FortPass**, la aplicación segura para gestionar tus contraseñas
 ## 🚀 Instalación
 ### Desde un enlace directo
 1. Escanea el siguiente QR para descargar la aplicación:
-![QR APP FORTPASS](https://github.com/user-attachments/assets/df359102-423c-4097-8302-370a1f295bd5)
-
-
-
+![QR APP FORTPASS2](https://github.com/user-attachments/assets/4fe76d85-49fc-4174-8631-46aa4d82d475)
 2. Descarga el archivo `app-release.apk`.
 3. Transfiere el archivo a tu dispositivo Android si lo descargaste en tu computadora.
 4. Abre el archivo APK e instala la aplicación (asegúrate de habilitar la instalación desde fuentes desconocidas en la configuración de tu dispositivo).
